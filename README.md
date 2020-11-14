@@ -1,2 +1,3 @@
 # explain
-Explain things like "explainshell" does (an exercise in F#)
+> Explain things like "explainshell" does
+> (an exercise in F#)
